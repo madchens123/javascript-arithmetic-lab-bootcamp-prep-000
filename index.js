@@ -7,7 +7,7 @@ function subtract(a, b) {
   return a - b;
 }
 
-function multiple(a, b) {
+function multipy(a, b) {
   
   return a * b;
 }
