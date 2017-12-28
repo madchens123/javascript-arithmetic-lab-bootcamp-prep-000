@@ -21,3 +21,7 @@ function inc(a) {
   
   return ++a;
 }
+
+function inc(a) {
+  return --a;
+}
